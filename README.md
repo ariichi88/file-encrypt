@@ -15,3 +15,5 @@ This script requires the following two commands
 
 1. i think that this script works on most linux  
 2. it dosn't works when (d)encrypting large size file 
+
+test
